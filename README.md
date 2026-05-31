@@ -21,8 +21,6 @@ Hi there! I'm **Zubair Fawad**, a software engineer working to make systems scal
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 
 ## 📊 GitHub Stats:
-![Zubair's GitHub stats](https://github-readme-stats.vercel.app/api?username=zubairfawad23&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubairfawad23&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zubairfawad23&theme=radical)
 
 ## 📈 Activity Graph:
