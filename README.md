@@ -1,5 +1,5 @@
 # ⚛ About Me:
-Hi there! I'm **Zubair Fawad**, a software engineer working to make systems scalable for the masses. I am passionate about building solutions that bring the future closer and make a positive impact.
+Hi there! I'm **Zubair Fawad**, a software engineer working to make systems scalable. I build solutions that bring the future closer and make a positive impact.
 
 •⁠ 🌱 I’m currently diving deeper into **Amazon Web Services, Python, and Next.js**  
 •⁠ 📝 I enjoy sharing my knowledge through articles on [Medium](https://medium.com/@zubairfawad23)  
